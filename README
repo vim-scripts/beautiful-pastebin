@@ -1,3 +1,3 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=3622
 
-The vim plugin script used for copying code directly from pastebin to your vim text editor
+The vim plugin script used for downloading and uploading code directly from/to pastebin to/from your vim text editor. 
